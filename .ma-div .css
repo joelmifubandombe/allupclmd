@@ -1,0 +1,7 @@
+.ma-div {
+      background-image: url("chemin-vers-votre-image/fichier-image.png");
+      background-repeat: repeat-y; /* Répéter l'image verticalement */
+      background-position: center; /* Centrer l'image horizontalement */
+      background-attachment: fixed; /* Empêcher l'image de défiler avec la page */
+      filter: blur(10px); /* Appliquer un flou gaussien de 10 pixels */
+    }
